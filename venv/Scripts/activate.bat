@@ -1,4 +1,4 @@
-@set "VIRTUAL_ENV=C:\Users\prave\PycharmProjects\Gayathri-Balachandran-Project-3_Python-for-DS\venv"
+@set "VIRTUAL_ENV=C:\Users\prave\PycharmProjects\Project-3_Python-for-DS\venv"
 
 @if defined _OLD_VIRTUAL_PROMPT (
     @set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
